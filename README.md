@@ -8,7 +8,7 @@ A client library for the [linkorb/bergen][] storage API.
 
 ## Example usage
 
-<?php
+    <?php
 
     require_once __DIR__ . '/vendor/autoload.php';
 
